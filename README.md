@@ -1,7 +1,9 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Mateusz Gola and I'm a software developer. I'm from Poland, living in Warsaw, currently studying and honing my programming skills. You can find me on [![LinkedIn][3.2]][3].
+My name is Mateusz Gola and I'm a software developer. I'm from Poland, living in Warsaw, currently studying and honing my programming skills. 
 
+### Connect with me:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -9,25 +11,12 @@ My name is Mateusz Gola and I'm a software developer. I'm from Poland, living in
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Golso=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com//Golso/Golso/blob/master/linkedin-3-16.png (LinkedIn icon without padding)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golso&layout=compact&theme=radical" alt="Anurag's github stats" />
+</a>
 
 
-<!-- links to your social media accounts -->
-
-[2]: https://github.com/Golso
-[3]: https://www.linkedin.com/in/mateusz-m-gola/
+[linkedin]: https://www.linkedin.com/in/mateusz-m-gola/
 
 
 <!-- Resources -->
