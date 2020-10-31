@@ -1,12 +1,3 @@
-# Hello, folks!
-
-My name is Mateusz Gola and I'm a software developer. I'm from Poland, living in Warsaw, currently studying and honing my programming skills. 
-
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golso&layout=compact&theme=radical" alt="Anurag's github stats" />
